@@ -1,7 +1,4 @@
-# rubocop-automata
-
-[![CircleCI](https://circleci.com/gh/rvillage/rubocop-automata/tree/master.svg?style=svg)](https://circleci.com/gh/rvillage/rubocop-automata/tree/master)
-[![Gem Version](https://badge.fury.io/rb/rubocop-automata.svg)](https://badge.fury.io/rb/rubocop-automata)
+# neeto-audit-automata
 
 `neeto-audit-automata` is automation script for `neeto-audit -a` and create pull request.
 
