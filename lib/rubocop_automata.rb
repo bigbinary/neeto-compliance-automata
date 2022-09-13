@@ -15,7 +15,7 @@ module RubocopAutomata
       raise 'Please input ENV of GITHUB_ACCESS_TOKEN'
     end
 
-    if RubocopAutomata::Skill.rubocop_autocorrect
+    if RubocopAutomata::Skill.neeto_audit_autocorrect
       RubocopAutomata::Skill.create_branch(
         @@backend_ci.repository_url,
         github_email,
