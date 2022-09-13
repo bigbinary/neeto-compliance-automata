@@ -1,13 +1,14 @@
-# neeto-audit-automata
+# neeto-compliance-automata
 
-`neeto-audit-automata` is automation script for `neeto-audit -a` and create pull request.
+`neeto-compliance-automata` is automation script for `neeto-audit -a` and create pull request.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'neeto-audit-automata', git: "https://github.com/bigbinary/neeto-compliance-automata.git", branch: "master"
+gem 'neeto-compliance-automata', git: "https://github.com/bigbinary/neeto-compliance-automata.git", branch: "master"
+>>>>>>> eac4341 (Readme update)
 ```
 
 And then execute:
@@ -31,5 +32,5 @@ GitHub personal access token is required for sending pull requests to your repos
 General usage:
 
 ```ruby
-$ neeto-audit-automata [github email] [github username]
+$ neeto-compliance-automata [github email] [github username]
 ```
