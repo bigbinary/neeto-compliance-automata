@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'neeto-audit-automata'
+gem 'neeto-audit-automata', git: "https://github.com/bigbinary/neeto-compliance-automata.git", branch: "master"
 ```
 
 And then execute:
