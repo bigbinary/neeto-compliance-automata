@@ -18,7 +18,7 @@ $ bundle
 
 ## Usage
 
-### Setting GitHub personal access token to CircleCI
+### Setting GitHub personal access token
 
 GitHub personal access token is required for sending pull requests to your repository.
 
