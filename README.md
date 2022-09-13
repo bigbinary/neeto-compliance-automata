@@ -8,7 +8,6 @@ Add this line to your application's Gemfile:
 
 ```ruby
 gem 'neeto-compliance-automata', git: "https://github.com/bigbinary/neeto-compliance-automata.git", branch: "master"
->>>>>>> eac4341 (Readme update)
 ```
 
 And then execute:
